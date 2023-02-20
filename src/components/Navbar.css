@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+    .hide{
+       display: none;
+    }
+}
+.item-text {
+   color: white;
+  text-shadow: 2px 0px 5px #3c3b3b;
+
+    
+}
+.item-container{
+    padding-bottom: 100px;
+}
+
+  .navbarr{
+    background-color: black;
+
+
+  }
+

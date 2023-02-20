@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Cabin+Condensed&family=Courgette&family=Fira+Sans&family=Fredoka+One&family=Inter:wght@300&family=Leckerli+One&family=Pacifico&family=Poppins&family=Roboto&family=Roboto+Condensed&family=Rubik&family=Signika+Negative:wght@300&family=Source+Sans+Pro&family=Ubuntu:wght@300;400&family=Varela+Round&family=Yanone+Kaffeesatz&display=swap');
+
+
+body{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+    font-family: 'Poppins';
+    background-color: #F3FBFB;
+    width: 100%;
+
+}
+
+nav{
+    padding: .8rem 0;
+    background-color: rgb(52 ,48 ,48)
+}
+nav .text a{
+    padding-left: 1rem;
+    color: white;
+    text-decoration: none;
+}
+nav .text span{
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+
+    
+}
+.heading{
+    font-weight: 600;
+}
+.heading h2{
+    font-weight: 600;
+}
+
+.card{
+     position:relative;
+    margin: auto;
+    width: 100%;
+    height: 73vh;
+    padding: 1rem;
+    background-color: snow;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    box-shadow: 0px 0px 17px 0px #B6BCC6;    
+    
+     
+}
+h6{
+    font-weight: bold;
+}
+.card:hover {
+    transform: scale(1.01,1.01);
+    
+}
+.card img{
+    border-radius:1rem;
+    margin-bottom: 1rem;
+    position: relative;
+    height: 250px;
+    
+}
+.More{
+    position: relative;
+    padding-top:1rem ;
+    text-align: center;
+    /* padding-top: 50px    ; */
+    padding-bottom: 2rem;   
+}
+.More a{
+    text-decoration: none;
+    color: black;
+    box-shadow: 0px 0px 17px 0px #B6BCC6;
+    padding: .4rem .6rem;
+    border-radius: 1rem;
+
+}
+.More a:hover{
+    background-color:#B6BCC6;   
+    color: White;
+}
+.next {
+    padding: 2rem 0;
+}
+@media screen and (max-width:1024px){
+    .card{
+        width: 110%;
+    } 
+
+}
+@media screen and (max-width: 600px){
+      .card img{
+        width: 90%;
+      }
+    .card{
+        width: 60%;
+    }
+    .next{
+        padding: 2rem 2rem;
+    }
+    .heading{
+        padding-top:2rem ;
+
+    }
+    .heading h2{
+        font-size: 1.8rem;
+     }
+
+}
+
+
+
