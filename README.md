@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-  <p>Welcome to my self-portfolio website! This unique and visually stunning platform showcases my skills, experiences, and projects, highlighting my journey as a developer. Built with the powerful combination of React.js, SCSS, HTML, and JavaScript, this website offers an interactive and engaging experience for visitors.</p>
+  <p>This React website is a news aggregator that makes use of a free news API to deliver the latest local and global headlines to its users. The homepage features a clean and modern design, and news on sports, business, entertainment, politics, and technology.</p>
 
 ![](https://github.com/Krishna11118/Daily-News/blob/main/example/dailyNewsGif.gif)
 
@@ -13,7 +13,6 @@
 List of frameworks/libraries/languages that were used to built this project.
 
 * [![React][React.js]][React-url]
-* [![Scss][Scss]][Scss-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Css][Css.com]][Css-url]
 * [![Html][Html.com]][Html-url]
@@ -23,7 +22,7 @@ List of frameworks/libraries/languages that were used to built this project.
 <br>
 
 <div align='center'>
-<img src='https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687634312/PortFolio_Readme/bzd5pgb9ypck5ik9mt2k.png'/>
+<img src='https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687842547/Daily_News/fo9as7g4bnpdl0xjxx17.png'/>
 
 
 
