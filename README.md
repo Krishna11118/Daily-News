@@ -1,4 +1,4 @@
-<div align='center'><img height="100px" width="100px" src='https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687842547/Daily_News/fo9as7g4bnpdl0xjxx17.png'/></div>
+<div align='center'><img height="100px" width="100px" src='https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687842919/Daily_News/sifvdushd7r1ioomzjhg.png'/></div>
 
 <h2>About the project</h2>
 
