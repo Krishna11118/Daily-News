@@ -54,7 +54,7 @@ Krishna -  [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com -
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
+[Svelte-u
 [Expressjs.com]: https://img.shields.io/badge/Expressjs-0FBEFE?style=for-the-badge&logo=express&logoColor=black
 [Expressjs-url]: https://expressjs.com/
 [Css.com]: https://img.shields.io/badge/Css-C14FB9?style=for-the-badge&logo=css3&logoColor=black
