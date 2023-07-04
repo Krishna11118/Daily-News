@@ -19,9 +19,9 @@ export default class NewsIteam extends Component {
            <div className="card-body">
              <h6 className="card-title ">{title}</h6>
              <small className="card-text">{description}</small>
-             
              <div className='More'>
-             <a href={newsurl} target="_blank">Read More</a></div>
+             <a href={newsurl} target="_blank">Read More</a>
+             </div>
            </div>
          </div>
          </div> 
